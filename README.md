@@ -4,19 +4,19 @@
 
 <div id="badges">
   <a href = "https://www.linkedin.com/in/bernardo-cajaseira-b6028417a/">
-    <img src="" alt="LinkedIn Profile"/>
+    <img src="social-badge/linkedin-badge.png" alt="LinkedIn Profile"/>
   </a>
  
   <a href = "https://twitter.com/becajaseira">
-  <img src="" alt="Twitter Profile"/>
+  <img src="social-badge/twitter.png" alt="Twitter Profile"/>
   </a>
   
   <a href = "https://www.twitch.tv/turtlekappaa">
-  <img src="" alt="Twitch Channel"/>
+  <img src="social-badge/twitch-badge.png" alt="Twitch Channel"/>
   </a>
   
   <a href = "https://www.instagram.com/becajaseira">
-  <img src="" alt="Instagram Profile"/>
+  <img src="social-badge/instagram-badge.png" alt="Instagram Profile"/>
   </a>
 </div>
 
