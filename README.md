@@ -33,9 +33,3 @@ Quero Aprender: **C#, Ruby, Kotlin e Java.**
 
 ---
 
-
-
- <div align = "left">
-<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=becajaseira&show_icons=true&theme=algolia&count_private=true"/>
-<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=becajaseira&show_icons=true&show_icons=true&theme=algolia&count_private=true" />
- </div>
